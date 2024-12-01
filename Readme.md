@@ -1,1 +1,1 @@
-Projeto que usei para aprender a linguagem C.
+Códigos que usei para aprender o básico da linguagem C.
